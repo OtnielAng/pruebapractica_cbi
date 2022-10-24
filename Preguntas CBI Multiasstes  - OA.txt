@@ -1,0 +1,27 @@
+Otniel Salvador Angeles Sanchez
+
+1.-
+	Java 	HTML	PH
+	C#	CSS	JavaScript
+	XAML		Python
+
+2.-
+	Java		XAML 	HTML
+	SQL - MySQL	C#	CSS
+
+3.-
+		Los microservisios son partes de un programa que funcionan como uno solo, sive 
+	principalmente para grandes proyectos, ya que permite trabajar o actualizar uno de estso, 
+	sin la necesidad de ocupar todo el programas
+
+4.-
+		Lo que me apaiona es poder generar soluciones ante cualquier problematica
+	que se tiene, y como estas soluciones terminan automatizando dichas problematicas,
+	permitiendo que se pueda hacer mas con menos tiempo y ezfuerzo
+
+5.-
+		Existen infinidad de apliaciones y paginas actualmente, sin embargo, no todas cumples
+	todas las necesidades de una persona, por lo que, en vez de esperar que alguien cree una 
+	para que cubra dicha necesidad, prefiero crearla yo, y asi puedo cubrir las necesidades 
+	que tengo, por eso escogi una carrera realcionada a las tecnologias, para poder crear dichas 
+	soluciones que tenga a mis problemas y de otros
